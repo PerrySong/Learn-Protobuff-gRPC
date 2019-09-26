@@ -365,7 +365,7 @@ Nowadays, a web page loads 80 assets on average. Headers are sent at every reque
 # REST vs gRPC
 
 | gRPC | REST | 
-----------------
+|-------|---------|
 | Protocol Buffers - smaller, faster | JSON -text based slower, bigger |
 | HTTP/2 (lower latency) - from 2015 | HTTP1.1 (high latency) - from 1997 |
 | Bidirectional & Async | Client => Server requests only |
