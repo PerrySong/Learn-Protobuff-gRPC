@@ -1,5 +1,5 @@
-[intro](#)
-[How to use](#)
+[intro](#Protocol Buffer)
+[How to use](#How to use)
 [Updating Protocol Rules](# Updating Protocol Rules)
 [Adding Fields](# Adding Fields)
 [Renaming Field](# Renaming Field)
@@ -26,6 +26,7 @@
 [Why Protocol Buffers?](# Why Protocol Buffers?)
 [Learn gRPC](# Learn gRPC)
 
+# Protocol Buffer
 Pros:
 * Data is fully typed
 * Data is compressed automatically (less CPU usage)
