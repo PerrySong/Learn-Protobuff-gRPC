@@ -1,4 +1,4 @@
-[intro](#Protocol Buffer)  
+[intro](#protocol-buffer)  
 [How to use](#How to use)   
 [Updating Protocol Rules](#Updating Protocol Rules) 
 [Adding Fields](#Adding Fields)  
